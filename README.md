@@ -1,4 +1,9 @@
-This is a simple programme developed in C++, which I intend to update once in a while to make it better and better, with more features and more complexity.
-This project is making use of the SFML library, which I am by no means a master at.
+# SFML Screensaver
+This served as a simple test to see if I could singlehandedly learn to use a C++ library, using only the online official documentation, to create something of relative interest.
+With that in mind, I created this funky program!
 
-If there are any issues, or suggestions, by all means tell me.
+## How does it work?
+
+### Fun Fact
+After having created a functioning version of this, I managed to **win an award** for this program in my college.
+I was awarded **Best Software**.
